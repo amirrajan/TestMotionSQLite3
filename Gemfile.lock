@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    motion-sqlite3 (0.5.3)
+      motion.h (~> 0.0.4)
+    motion.h (0.0.4)
+    rake (12.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  motion-sqlite3
+  rake
+
+BUNDLED WITH
+   1.15.4
